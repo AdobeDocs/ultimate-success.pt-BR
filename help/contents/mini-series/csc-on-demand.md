@@ -3,7 +3,7 @@ title: Série Percepção de valor do Supply chain de conteúdo
 description: Esta série explica como modernizar o conteúdo do supply chain, desde o planejamento até a avaliação. As sessões destacam abordagens práticas de arquitetura, modelos operacionais, patrocínio executivo e gerenciamento de alterações para impulsionar a eficiência, dimensionar as operações de conteúdo e fornecer resultados mensuráveis.
 topic: Content Supply Chain
 hide: true
-source-git-commit: 4f467564ef48ca8b7fef32fddc7ac50a3070fb7c
+source-git-commit: bfbf2983262e37143222d8ece1e23a2c2ab6e81b
 workflow-type: tm+mt
 source-wordcount: '590'
 ht-degree: 0%
@@ -147,3 +147,4 @@ CARDS  ****
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
