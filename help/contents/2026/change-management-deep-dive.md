@@ -26,7 +26,7 @@ Junte-se a nós para uma sessão de trabalho interativa do Gerenciamento de alte
 
 >[!VIDEO](https://video.tv.adobe.com/v/3486200/?learn=on&enablevpops)
 
-Esta sessão requer pouco ou nenhum pré-trabalho.  Opcionalmente, você pode assistir à gravação de [Estratégias de Gerenciamento de Alterações](https://experienceleague.adobe.com/pt-br/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies) da [série VRA](https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/mini-series/ajo-on-demand), oferece suporte a equipes em qualquer nível de maturidade e garante que cada participante saia com um plano de alteração tangível de uma página alinhado diretamente aos seus casos de uso do AJO.
+Esta sessão requer pouco ou nenhum pré-trabalho.  Opcionalmente, você pode assistir à gravação de [Estratégias de Gerenciamento de Alterações](https://experienceleague.adobe.com/pt-br/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies) da [série VRA](https://experienceleague.adobe.com/pt-br/docs/ultimate-success/ultimate-success-webinar-library/mini-series/ajo-on-demand), oferece suporte a equipes em qualquer nível de maturidade e garante que cada participante saia com um plano de alteração tangível de uma página alinhado diretamente aos seus casos de uso do AJO.
 
 Essa sessão se concentrou em,
 
