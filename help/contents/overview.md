@@ -2,7 +2,7 @@
 title: Biblioteca de webinários do Ultimate Success
 description: Acesse nossa exclusiva biblioteca de webinários com especialistas para que os clientes da Ultimate Success dominem rapidamente as práticas recomendadas estratégicas e técnicas que geram resultados comerciais mensuráveis.
 hide: true
-source-git-commit: c3a2b9ff21c5920d9bb2251dd49f1a3be5686b55
+source-git-commit: 8a54a96197c735be2ab4b90097004f8670637761
 workflow-type: tm+mt
 source-wordcount: '944'
 ht-degree: 0%
@@ -18,7 +18,8 @@ Acesse nossa abrangente biblioteca de webinários com especialistas, criada para
 
 Explore nossa coleção de webinários sob demanda projetados para ajudá-lo a maximizar o valor das soluções da Adobe Experience Platform (AEP). Criada para clientes da Ultimate, cada sessão fornece orientação acionável, estratégias comprovadas e exemplos reais para ajudá-lo a tomar decisões mais inteligentes e obter resultados mais sólidos dentro de sua programação.
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -207,7 +208,8 @@ Explore gravações OnDemand da Série Value Realization da Adobe, projetada par
 
 Cada sessão focada destaca um pilar fundamental da estrutura de reconhecimento de valores, oferecendo orientação prática e artefatos comprovados para apoiar o planejamento estratégico, acelerar o tempo de implantação e gerar resultados significativos. Navegue por séries específicas de produtos e setores para ver como as equipes ativam a estratégia, alinham as partes interessadas e avançam da adoção ao impacto.
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
   {cta  = View series}
   
