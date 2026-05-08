@@ -2,7 +2,7 @@
 title: Biblioteca de webinários do Ultimate Success
 description: Acesse nossa exclusiva biblioteca de webinários com especialistas para que os clientes da Ultimate Success dominem rapidamente as práticas recomendadas estratégicas e técnicas que geram resultados comerciais mensuráveis.
 hide: true
-source-git-commit: 8a54a96197c735be2ab4b90097004f8670637761
+source-git-commit: 6c0d3d7998b5beed45fb8d88aa3685c2e6dc7bc9
 workflow-type: tm+mt
 source-wordcount: '944'
 ht-degree: 0%
@@ -23,6 +23,8 @@ CARDS  ****
 
 {cta = Watch}
 
+* ../contents/2026/unified-audiences.md
+* ../contents/2026/intelligent-decsioning.md
 * ../contents/2026/change-management-deep-dive.md
 * https://experienceleague.adobe.com/pt-br/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices
 * https://experienceleague.adobe.com/pt-br/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence
