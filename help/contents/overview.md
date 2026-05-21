@@ -35,7 +35,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="Impulsionando valor no Supply chain de conteúdo - Uma estrutura estruturada e um scorecard de medição" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1779390693086" alt="Impulsionando valor no Supply chain de conteúdo - Uma estrutura estruturada e um scorecard de medição"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491240/?captions=por_br&format=jpeg&nocache=1779390693086" alt="Impulsionando valor no Supply chain de conteúdo - Uma estrutura estruturada e um scorecard de medição"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -175,7 +175,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="Série Percepção de valor do Supply chain de conteúdo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="Série Percepção de valor do Supply chain de conteúdo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479091/?captions=por_br&format=jpeg&nocache=1773689372143" alt="Série Percepção de valor do Supply chain de conteúdo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

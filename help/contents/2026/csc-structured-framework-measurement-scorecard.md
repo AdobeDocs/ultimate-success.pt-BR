@@ -19,4 +19,4 @@ ht-degree: 0%
 
 À medida que a complexidade do conteúdo aumenta, muitas organizações se esforçam para demonstrar claramente o valor comercial de suas operações de conteúdo. Este webinário apresenta uma abordagem estruturada e baseada em resultados para medir o valor no Supply chain de conteúdo, ajudando você a definir KPIs significativos, vincular investimentos de conteúdo ao impacto nos negócios e estabelecer um scorecard de medição pronto para os executivos para a realização contínua do valor
 
->[!VIDEO](https://video.tv.adobe.com/v/3491220/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491240/?captions=por_br&learn=on&enablevpops)
