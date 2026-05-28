@@ -2,10 +2,10 @@
 user-guide-title: Biblioteca de webinários do Ultimate Success
 breadcrumb-title: Biblioteca de webinários do Ultimate Success
 user-guide-description: Acesse nossa exclusiva biblioteca de webinários com especialistas para que os clientes da Ultimate Success dominem rapidamente as práticas recomendadas estratégicas e técnicas que geram resultados comerciais mensuráveis.
-source-git-commit: 7bf89129c8771ffb9bb37634158c81b3d7a5385b
+source-git-commit: 14b62ebfaa1f07e69ac4ab4d43ced15ce4061901
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 2%
+source-wordcount: '114'
+ht-degree: 1%
 
 ---
 
@@ -29,3 +29,7 @@ ht-degree: 2%
    + {hide-from-toc}[Adobe Data Insights Agent](../contents/2026/data-insights-agent-cja.md)
    + {hide-from-toc}[Otimizando o AEM para GEO](../contents/2026/optimize-aem-for-geo.md)
    + {hide-from-toc}[Componentes compartilhados do CJA](../contents/2026/shared-components-cja.md)
+   + {hide-from-toc}[Campanhas por email](../contents/2026/email-campaigns.md)
+   + {hide-from-toc}[Criando a Estratégia de Experiência do Cliente](../contents/2026/maximize-ajo-value.md)
+   + {hide-from-toc}[Desbloqueando Composição de Público-Alvo Federado](../contents/2026/unlock-federated-audience-composition.md)
+   + {hide-from-toc}[Declarações de Caso de Uso Eficazes](../contents/2026/effective-use-case-statements.md)
