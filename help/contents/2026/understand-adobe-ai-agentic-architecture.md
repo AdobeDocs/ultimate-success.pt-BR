@@ -30,7 +30,7 @@ ht-degree: 4%
 
 Essa sessão fornece uma estrutura detalhada para alinhar os recursos de IA do Adobe aos seus objetivos de negócios. Ele se concentra em maximizar seus investimentos na Adobe e adotar soluções escaláveis com disponibilidade e governança de dados aprimoradas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496952/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496962/?captions=por_br&learn=on&enablevpops)
 
 ## O que você vai aprender
 

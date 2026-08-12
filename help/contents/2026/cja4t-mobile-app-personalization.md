@@ -25,7 +25,7 @@ ht-degree: 2%
 
 Saiba como conectar experiências de aplicativo móvel do Adobe Target a ações de downstream em canais com o CJA4T. Essa sessão fornece orientação sobre identificação de identidades, arquitetura de dados, configuração de relatórios e como evitar armadilhas comuns de configuração. Obtenha uma visão mais completa do impacto na personalização e tome melhores decisões de otimização.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496953/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496982/?captions=por_br&learn=on&enablevpops)
 
 ## O que você vai aprender
 
