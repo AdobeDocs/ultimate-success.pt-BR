@@ -2,13 +2,8 @@
 title: Dimensionamento De Agentes Adobe - Brand Experience Agent
 description: Saiba como o Brand Experience Agent da Adobe pode simplificar os fluxos de trabalho, acelerar a produção de conteúdo e garantir o controle para obter valor escalável para os negócios.
 product: Workfront
-role:
-  - Admin
-  - Leader
-  - User
-level:
-  - Beginner
-  - Intermediate
+role: Admin, Leader, User
+level: Beginner, Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
@@ -16,7 +11,7 @@ jira: KT-22285
 duration: 1968
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: 99b08f72e37e492161091145b3ecd9ec5349f283
+source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 2%
@@ -28,7 +23,7 @@ ht-degree: 2%
 
 Veja como a Brand Experience Agent pode acelerar a produção de conteúdo, a modernização do site e o desenvolvimento, preservando a revisão e a governança humanas. Descubra por que a padronização de workflows repetitivos de alto valor é essencial para o fornecimento de valor escalável para os negócios.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496971/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496956/?learn=on&enablevpops)
 
 ## O que você vai aprender
 

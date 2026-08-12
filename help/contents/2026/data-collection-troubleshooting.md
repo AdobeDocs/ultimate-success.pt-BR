@@ -2,12 +2,8 @@
 title: Solução de problemas da coleção de dados - dicas, truques e práticas recomendadas de governança
 description: Aprenda maneiras eficazes de solucionar problemas do Adobe Analytics e do Web SDK com técnicas orientadas por governança para validar dados e resolver problemas com mais rapidez.
 product: Customer Journey Analytics
-role:
-  - Admin
-  - Developer
-level:
-  - Beginner
-  - Intermediate
+role: Admin, Developer
+level: Beginner, Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
@@ -15,7 +11,7 @@ jira: KT-22284
 duration: 3401
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: f61b659ca5d897e33ab5e3e7d8bd694e26cec3bc
+source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 2%

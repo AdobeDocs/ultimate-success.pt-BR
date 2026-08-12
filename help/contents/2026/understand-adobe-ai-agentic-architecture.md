@@ -2,15 +2,8 @@
 title: Noções básicas sobre a IA e a arquitetura de agente da Adobe para as necessidades de negócios
 description: Saiba como a arquitetura de IA e agilidade da Adobe se alinha aos resultados de negócios, maximiza os investimentos da Adobe e permite a adoção escalável com uma governança forte.
 product: Platform
-role:
-  - Admin
-  - Developer
-  - Leader
-  - User
-level:
-  - Beginner
-  - Intermediate
-  - Experienced
+role: Admin, Developer, Leader, User
+level: Beginner, Intermediate, Experienced
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
@@ -18,7 +11,7 @@ jira: KT-22281
 duration: 1821
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: f61b659ca5d897e33ab5e3e7d8bd694e26cec3bc
+source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 4%
@@ -30,7 +23,7 @@ ht-degree: 4%
 
 Essa sessão fornece uma estrutura detalhada para alinhar os recursos de IA do Adobe aos seus objetivos de negócios. Ele se concentra em maximizar seus investimentos na Adobe e adotar soluções escaláveis com disponibilidade e governança de dados aprimoradas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496962/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496952/?learn=on&enablevpops)
 
 ## O que você vai aprender
 
