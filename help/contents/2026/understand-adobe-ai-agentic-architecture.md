@@ -2,8 +2,15 @@
 title: Noções básicas sobre a IA e a arquitetura de agente da Adobe para as necessidades de negócios
 description: Saiba como a arquitetura de IA e agilidade da Adobe se alinha aos resultados de negócios, maximiza os investimentos da Adobe e permite a adoção escalável com uma governança forte.
 product: Platform
-role: AdminDeveloperLeaderUser
-level: BeginnerIntermediateExperienced
+role:
+  - Admin
+  - Developer
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
+  - Experienced
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

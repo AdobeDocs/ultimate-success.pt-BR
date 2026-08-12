@@ -2,8 +2,13 @@
 title: Por que você deseja a Revisão e aprovação unificadas no Workfront
 description: Descubra como o Adobe Workfront Unified Review & Approval simplifica os processos de revisão de conteúdo, melhora a colaboração e aumenta a eficiência.
 product: Workfront
-role: AdminDeveloperUser
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Developer
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

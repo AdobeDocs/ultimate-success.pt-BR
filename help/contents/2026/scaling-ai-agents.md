@@ -2,8 +2,12 @@
 title: Dimensionamento de agentes do Adobe AI - Audience Agent e Data Insights Agent
 description: Saiba como o Audience Agent e o Data Insights Agent transformam o uso da IA ad hoc em fluxos de trabalho repetíveis para segmentação, gerenciamento de público-alvo e análise de campanha.
 product: Customer Journey Analytics
-role: DeveloperUser
-level: BeginnerIntermediate
+role:
+  - Developer
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

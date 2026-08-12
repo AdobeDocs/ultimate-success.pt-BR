@@ -2,8 +2,14 @@
 title: Dimensionamento de agentes do Adobe - Journey Agent
 description: Saiba como o Journey Agent da Adobe combina fluxos de trabalho de IA com supervisão humana para otimizar a criação e a governança de jornadas.
 product: Journey Optimizer
-role: AdminLeaderUser
-level: BeginnerIntermediateExperienced
+role:
+  - Admin
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
+  - Experienced
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
