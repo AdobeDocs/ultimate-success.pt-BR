@@ -1,7 +1,7 @@
 ---
 title: Dimensionamento De Agentes Adobe - Brand Experience Agent
 description: Saiba como o Brand Experience Agent da Adobe pode simplificar os fluxos de trabalho, acelerar a produção de conteúdo e garantir o controle para obter valor escalável para os negócios.
-product: Workfront
+solution: Workfront
 role: Admin, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22285
 duration: 1968
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 2%
