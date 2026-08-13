@@ -6,7 +6,7 @@ product_v2:
 usetq: true
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/ultimate-success.en
+git-repo: https://github.com/AdobeDocs/ultimate-success.pt-BR
 auto-video-transcripts: true
 hide: true
 debug: yes
