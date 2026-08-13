@@ -23,7 +23,7 @@ ht-degree: 2%
 
 Veja como a Brand Experience Agent pode acelerar a produção de conteúdo, a modernização do site e o desenvolvimento, preservando a revisão e a governança humanas. Descubra por que a padronização de workflows repetitivos de alto valor é essencial para o fornecimento de valor escalável para os negócios.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496956/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496971/?captions=por_br&learn=on&enablevpops)
 
 ## O que você vai aprender
 
