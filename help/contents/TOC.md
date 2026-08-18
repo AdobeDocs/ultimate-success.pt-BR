@@ -3,9 +3,9 @@ user-guide-title: Biblioteca de webinários do Ultimate Success
 breadcrumb-title: Biblioteca de webinários do Ultimate Success
 user-guide-description: Acesse nossa exclusiva biblioteca de webinários com especialistas para que os clientes da Ultimate Success dominem rapidamente as práticas recomendadas estratégicas e técnicas que geram resultados comerciais mensuráveis.
 nudge: true
-source-git-commit: 8341cffff74fd458f81bd307e523d075c29badad
+source-git-commit: ae55a4878eecae03ea31d7564b2a3066c242b78e
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '191'
 ht-degree: 1%
 
 ---
@@ -47,3 +47,4 @@ ht-degree: 1%
   + {hide-from-toc}[CJA4T para Personalization de Aplicativo Móvel](../contents/2026/cja4t-mobile-app-personalization.md)
   + {hide-from-toc}[Arquitetura de IA e agente da Adobe](../contents/2026/understand-adobe-ai-agentic-architecture.md)
   + {hide-from-toc}[Modelo Operacional Escalável do Adobe Workfront](../contents/2026/scalable-operating-model.md)
+  + {hide-from-toc}[Compilação do Adobe Customer Journey Analytics](../contents/2026/cja-stitching.md)
