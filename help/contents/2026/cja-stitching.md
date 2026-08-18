@@ -2,13 +2,8 @@
 title: Elevação dos insights entre canais com a compilação do Adobe Customer Journey Analytics
 description: Saiba como a compilação do Adobe CJA desbloqueia a análise entre canais e de nível de pessoa, melhorando os relatórios, a atribuição e a criação de público-alvo.
 product: Journey Optimizer
-role:
-  - Admin
-  - Developer
-  - User
-level:
-  - Beginner
-  - Intermediate
+role: Admin, Developer, User
+level: Beginner, Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-17T00:00:00Z
@@ -17,7 +12,7 @@ duration: 3105
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
 user-guide-description: null
-source-git-commit: ae55a4878eecae03ea31d7564b2a3066c242b78e
+source-git-commit: fd4e897f962482501f6cb4815af5433f36bdcd23
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
