@@ -3,10 +3,10 @@ user-guide-title: Biblioteca de webinários do Ultimate Success
 breadcrumb-title: Biblioteca de webinários do Ultimate Success
 user-guide-description: Acesse nossa exclusiva biblioteca de webinários com especialistas para que os clientes da Ultimate Success dominem rapidamente as práticas recomendadas estratégicas e técnicas que geram resultados comerciais mensuráveis.
 nudge: true
-source-git-commit: ae55a4878eecae03ea31d7564b2a3066c242b78e
+source-git-commit: 82315d7447d9a8daab5b596df5f95c02226be1cd
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 1%
+source-wordcount: '201'
+ht-degree: 0%
 
 ---
 
@@ -48,3 +48,5 @@ ht-degree: 1%
   + {hide-from-toc}[Arquitetura de IA e agente da Adobe](../contents/2026/understand-adobe-ai-agentic-architecture.md)
   + {hide-from-toc}[Modelo Operacional Escalável do Adobe Workfront](../contents/2026/scalable-operating-model.md)
   + {hide-from-toc}[Compilação do Adobe Customer Journey Analytics](../contents/2026/cja-stitching.md)
+  + {hide-from-toc}[Transformando casos de uso em resultados comerciais](../contents/2026/use-cases-into-business-outcomes.md)
+  + {hide-from-toc}[Sessão de lançamento de produto do AJO](../contents/2026/ajo-product-relelase-session.md)
