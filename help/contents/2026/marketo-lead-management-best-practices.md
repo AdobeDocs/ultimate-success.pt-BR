@@ -23,7 +23,7 @@ ht-degree: 2%
 
 Descubra a abordagem recomendada da Adobe para o gerenciamento de clientes potenciais e saiba como o marketing e as vendas podem funcionar a partir de uma estrutura compartilhada para qualificação, acompanhamento e medição.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502954/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502994/?captions=por_br&learn=on&enablevpops)
 
 ## Visão geral
 
