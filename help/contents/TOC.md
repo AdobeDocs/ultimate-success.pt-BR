@@ -3,9 +3,9 @@ user-guide-title: Biblioteca de webinários do Ultimate Success
 breadcrumb-title: Biblioteca de webinários do Ultimate Success
 user-guide-description: Acesse nossa exclusiva biblioteca de webinários com especialistas para que os clientes da Ultimate Success dominem rapidamente as práticas recomendadas estratégicas e técnicas que geram resultados comerciais mensuráveis.
 nudge: true
-source-git-commit: 72af96fb4f167de5866475d5a810a0bd287fb98a
+source-git-commit: b8c15a9c7151c54bf619d0e977bf59e59e16463c
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '243'
 ht-degree: 0%
 ---
 
@@ -55,3 +55,4 @@ ht-degree: 0%
   + {hide-from-toc}[Práticas recomendadas de observação e monitoramento do Adobe Commerce](../contents/2026/commerce-observability-monitoring.md)
   + {hide-from-toc}[Planejamento estratégico para o sucesso do CXO](../contents/2026/strategic-planning-cxo-success.md)
   + {hide-from-toc}[Habilidades do AEM Agent](../contents/2026/ai-assisted-development.md)
+  + {hide-from-toc}[Marcado, Controlado, Ativado](../contents/2026/metadata-backbone-content-at-scale.md)
