@@ -19,7 +19,7 @@ source-wordcount: '132'
 ht-degree: 0%
 ---
 
->[!VIDEO](https://video.tv.adobe.com/v/3503926/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503932/?captions=por_br&learn=on&enablevpops)
 
 # Da preliminar até a distribuição: fechando a lacuna de revisão e aprovação do WIP
 
