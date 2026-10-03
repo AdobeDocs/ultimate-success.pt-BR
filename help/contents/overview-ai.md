@@ -2,21 +2,15 @@
 title: Biblioteca de webinários do Ultimate Success
 description: Acesse nossa exclusiva biblioteca de webinários com especialistas para que os clientes da Ultimate Success dominem rapidamente as práticas recomendadas estratégicas e técnicas que geram resultados comerciais mensuráveis.
 hide: true
-source-git-commit: 3084af6480f8fddcd65d45701ecc4c05c35787a4
+source-git-commit: 574e2ed4b4b12f069dd194562b1a3f376ec56697
 workflow-type: tm+mt
-source-wordcount: '984'
-ht-degree: 14%
+source-wordcount: '884'
+ht-degree: 15%
 ---
 
 # Biblioteca de webinários do Ultimate Success
 
 Acesse nossa abrangente biblioteca de webinários com especialistas, criada para acelerar seu domínio das práticas recomendadas estratégicas e técnicas criadas exclusivamente para nossos clientes do Ultimate Success. De conceitos fundamentais a estratégias avançadas de implementação, esses webinários abordam tudo o que você precisa para gerar resultados mensuráveis para os negócios.
-
-## Adobe AI Essentials
-
-Bacon ipsum dolor amet barriga de porco picanha pernil, biltong presunto de carne polonia loin doner landjaeger. Turquia costelas sobressalentes filet mignon pancetta terra leberkas ombro baqueta de porco espumante ponta bola. Costelas curtas frankfurter chuck shankle ham hock tri-tip, filet mignon tail vaca chão boudin chislic drumstick. Capicola jowl costelas curtas, ombro frankfurter costelas sobressalentes lombo de porco fatback peru boudin salami chão redondo. Jowl shankle landjaeger prosciutto porchetta turducken chislic chuck. Turducken shankle de carne de vaca, landjaeger costelas curtas lombo curto pancetta costelas sobressalentes corned beef porchetta polony kevin jowl pork chop.
-
-[Exibir todos os webinários](./webinars.md)
 
 ## Webinários
 
@@ -39,7 +33,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="Impulsionando valor no Supply chain de conteúdo - Uma estrutura estruturada e um scorecard de medição" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491240/?captions=por_br&format=jpeg&nocache=1790984045136" alt="Impulsionando valor no Supply chain de conteúdo - Uma estrutura estruturada e um scorecard de medição"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1790984045136" alt="Impulsionando valor no Supply chain de conteúdo - Uma estrutura estruturada e um scorecard de medição"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -203,7 +197,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="Série Percepção de valor do Supply chain de conteúdo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479091/?captions=por_br&format=jpeg&nocache=1773689372143" alt="Série Percepção de valor do Supply chain de conteúdo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="Série Percepção de valor do Supply chain de conteúdo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
