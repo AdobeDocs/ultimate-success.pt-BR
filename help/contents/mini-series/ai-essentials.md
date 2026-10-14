@@ -2,7 +2,7 @@
 title: Fundamentos da IA
 description: Conheça o Adobe AI com sessões sob demanda que abrangem os conceitos principais e os recursos práticos de IA em todos os produtos do Adobe Customer Experience Orchestration.
 hide: true
-source-git-commit: e54197aac17d3cffb889e5dd0504b770f830c8eb
+source-git-commit: d2ccb7d2777d016909412f05889e7d49feffec05
 workflow-type: tm+mt
 source-wordcount: '1310'
 ht-degree: 30%
@@ -303,3 +303,4 @@ CARDS  ****
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
