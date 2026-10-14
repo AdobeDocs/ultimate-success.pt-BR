@@ -3,7 +3,7 @@ user-guide-title: Biblioteca de webinários do Ultimate Success
 breadcrumb-title: Biblioteca de webinários do Ultimate Success
 user-guide-description: Acesse nossa exclusiva biblioteca de webinários com especialistas para que os clientes da Ultimate Success dominem rapidamente as práticas recomendadas estratégicas e técnicas que geram resultados comerciais mensuráveis.
 nudge: true
-source-git-commit: b450770a372822b53b61ea0cca69230996e8c4a4
+source-git-commit: d2ccb7d2777d016909412f05889e7d49feffec05
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 0%
@@ -61,3 +61,4 @@ ht-degree: 0%
   + {hide-from-toc}[Fechando a Lacuna de Revisão e Aprovação do WIP](../contents/2026/wip-review-approval-gap.md)
   + {hide-from-toc}[Compilação para Escala de IA](../contents/2026/building-for-ai-scale.md)
   + {hide-from-toc}[Experiências Baseadas Em Código Do AJO](../contents/2026/strategies-for-smarter-personalization.md)
+
