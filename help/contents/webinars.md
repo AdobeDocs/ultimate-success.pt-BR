@@ -3550,7 +3550,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/pt-br/docs/events/adobe-customer-success-webinar-recordings/2024/target-personalization" title="Personalization do Target - Introdução às recomendações e afinidade de categorias" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432999/?format=jpeg&nocache=1792173159443" alt="Personalization do Target - Introdução às recomendações e afinidade de categorias"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504888/?captions=por_br&format=jpeg&nocache=1792173159443" alt="Personalization do Target - Introdução às recomendações e afinidade de categorias"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
