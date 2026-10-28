@@ -3,9 +3,9 @@ user-guide-title: Biblioteca de webinários do Ultimate Success
 breadcrumb-title: Biblioteca de webinários do Ultimate Success
 user-guide-description: Acesse nossa exclusiva biblioteca de webinários com especialistas para que os clientes da Ultimate Success dominem rapidamente as práticas recomendadas estratégicas e técnicas que geram resultados comerciais mensuráveis.
 nudge: true
-source-git-commit: 56718dcbe1a6ff4f61d73218925bdc33c43a8348
+source-git-commit: e0385887308ad535ac50a9915de57c9196f3dd03
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '293'
 ht-degree: 0%
 ---
 
@@ -62,4 +62,7 @@ ht-degree: 0%
   + {hide-from-toc}[Compilação para Escala de IA](../contents/2026/building-for-ai-scale.md)
   + {hide-from-toc}[Experiências Baseadas Em Código Do AJO](../contents/2026/strategies-for-smarter-personalization.md)
   + {hide-from-toc}[Introdução às REST APIs do Campaign](../contents/2026/getting-started-campaign-rest-apis.md)
+  + {hide-from-toc}[AEM AI Assistant e Adobe CX Enterprise Coworker](../contents/2026/aem-ai-assistant-cx-enterprise-coworker.md)
+  + {hide-from-toc}[Dimensionando a produção com o Designer de email do Campaign](../contents/2026/scale-production-campaign-email-designer.md)
+  + {hide-from-toc}[Conectando investimentos de agentes de IA ao impacto nos negócios](../contents/2026/ai-agentic-investments-to-business-impact.md)
 
