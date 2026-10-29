@@ -3,9 +3,9 @@ user-guide-title: Biblioteca de webinários do Ultimate Success
 breadcrumb-title: Biblioteca de webinários do Ultimate Success
 user-guide-description: Acesse nossa exclusiva biblioteca de webinários com especialistas para que os clientes da Ultimate Success dominem rapidamente as práticas recomendadas estratégicas e técnicas que geram resultados comerciais mensuráveis.
 nudge: true
-source-git-commit: e0385887308ad535ac50a9915de57c9196f3dd03
+source-git-commit: 5b5c687103ee3deb7607be409d98dcab63204ee5
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '296'
 ht-degree: 0%
 ---
 
@@ -65,4 +65,5 @@ ht-degree: 0%
   + {hide-from-toc}[AEM AI Assistant e Adobe CX Enterprise Coworker](../contents/2026/aem-ai-assistant-cx-enterprise-coworker.md)
   + {hide-from-toc}[Dimensionando a produção com o Designer de email do Campaign](../contents/2026/scale-production-campaign-email-designer.md)
   + {hide-from-toc}[Conectando investimentos de agentes de IA ao impacto nos negócios](../contents/2026/ai-agentic-investments-to-business-impact.md)
+  + {hide-from-toc}[Adoção de IA sustentável](../contents/2026/sustainable-ai-adoption.md)
 
