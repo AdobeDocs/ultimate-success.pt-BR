@@ -3,9 +3,9 @@ user-guide-title: Biblioteca de webinários do Ultimate Success
 breadcrumb-title: Biblioteca de webinários do Ultimate Success
 user-guide-description: Acesse nossa exclusiva biblioteca de webinários com especialistas para que os clientes da Ultimate Success dominem rapidamente as práticas recomendadas estratégicas e técnicas que geram resultados comerciais mensuráveis.
 nudge: true
-source-git-commit: 5b5c687103ee3deb7607be409d98dcab63204ee5
+source-git-commit: 843c0f101b5420824f55281fb39999dfac013aab
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '299'
 ht-degree: 0%
 ---
 
@@ -66,4 +66,5 @@ ht-degree: 0%
   + {hide-from-toc}[Dimensionando a produção com o Designer de email do Campaign](../contents/2026/scale-production-campaign-email-designer.md)
   + {hide-from-toc}[Conectando investimentos de agentes de IA ao impacto nos negócios](../contents/2026/ai-agentic-investments-to-business-impact.md)
   + {hide-from-toc}[Adoção de IA sustentável](../contents/2026/sustainable-ai-adoption.md)
+  + {hide-from-toc}[Kit de ferramentas do Marketo AI](../contents/2026/marketo-ai-toolkit.md)
 
