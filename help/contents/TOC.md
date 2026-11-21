@@ -3,9 +3,9 @@ user-guide-title: Biblioteca de webinários do Ultimate Success
 breadcrumb-title: Biblioteca de webinários do Ultimate Success
 user-guide-description: Acesse nossa exclusiva biblioteca de webinários com especialistas para que os clientes da Ultimate Success dominem rapidamente as práticas recomendadas estratégicas e técnicas que geram resultados comerciais mensuráveis.
 nudge: true
-source-git-commit: 188e08d27f491403f2f1597e85b3f23863f71659
+source-git-commit: 35b838f2553e462a3f6e4f202e7440e049adef2f
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '322'
 ht-degree: 0%
 ---
 
@@ -71,4 +71,5 @@ ht-degree: 0%
   + {hide-from-toc}[Colaborador da Adobe - Seu colega de equipe de IA](../contents/2026/coworker-ai-teammate.md)
   + {hide-from-toc}[Transformando Insights do Analytics em um Backlog de Experimentação](../contents/2026/analytics-insights-experimentation-backlog.md)
   + {hide-from-toc}[Agentes do Adobe AI em prática](../contents/2026/adobe-ai-agents-in-practice.md)
+  + {hide-from-toc}[Centro de Excelência da RTCDP](..//contents/2026/rtcdp-center-of-excellence.md)
 
