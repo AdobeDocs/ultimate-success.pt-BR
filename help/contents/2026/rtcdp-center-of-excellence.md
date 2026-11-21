@@ -22,7 +22,7 @@ ht-degree: 1%
 
 Como transformar a complexidade do público-alvo em ação coordenada? Essa sessão prática oferece aos arquitetos corporativos e proprietários de plataformas uma estrutura para organizar equipes, propriedade, governança, ativação e medição em torno da Adobe Experience Platform e da Real-Time CDP, para que as unidades de negócios possam trabalhar em conjunto com mais clareza e responsabilidade.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508597/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508602/?captions=por_br&learn=on&enablevpops)
 
 ## Principais aprendizados
 
